@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @hokkeyplayer
 - 👀 I’m interested in learning something new, fresh and intelligent
-- 🌱 I’m currently learning Ruby and Cypress
 - 💞️ I’m looking to learn some more <3 
 - 📫 How to reach me igordba@yahoo.com
 
